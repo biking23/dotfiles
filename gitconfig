@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sarahnelson032390@gmail.com
+	name = Sarah Nelson
